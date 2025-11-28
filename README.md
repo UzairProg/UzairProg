@@ -1,5 +1,5 @@
 # 💫 About Me  
-🏆 **8× Hackathon & Ideathon Winner**  
+🏆 **10× Hackathon & Ideathon Winner**  
 👋 Hey there! I’m **Uzair Mohammad**, a passionate **3rd-year Computer Science student** and developer who loves crafting impactful tech solutions.  
 
 I specialize in **Full-Stack (MERN)** and **App Development (React Native, Flutter)**, with growing curiosity in **Blockchain** and **AI-driven technologies**.  
@@ -16,6 +16,8 @@ My journey revolves around building innovative, real-world solutions that merge 
 🥈 **2nd Prize** – WINGS 2025, Chhatrapati Sambhajinagar  
 🥉 **3rd Prize** – Ideathon 2.0, Mumbai  
 🥉 **2nd Runner-Up** – Hack The Gap, Chhatrapati Sambhajinagar  
+🥉 consellation Prize -MUJHackX , Manipal University, Jaipur , Rajasthan
+🥉 *Best Innovation and Approach Award -Hackstrom , JEC , Jaipur , Rajasthan
 
 🏁 *Each hackathon was a new challenge — from ideation to execution — pushing limits and turning ideas into reality.* 🚀  
 
