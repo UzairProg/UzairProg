@@ -1,96 +1,114 @@
-# 💫 About Me  
-🏆 **10× Hackathon & Ideathon Winner**  
-👋 Hey there! I’m **Uzair Mohammad**, a passionate **3rd-year Computer Science student** and developer who loves crafting impactful tech solutions.  
+# Hey, I'm Uzair Mohammad 👋
 
-I specialize in **Full-Stack (MERN)** and **App Development (React Native, Flutter)**, with growing curiosity in **Blockchain** and **AI-driven technologies**.  
-My journey revolves around building innovative, real-world solutions that merge **code, creativity, and purpose**. 💡  
+**Software Engineer | Full Stack and Backend Systems | Applied GenAI**
 
----
-
-## 🏅 Hackathon Achievements  
-🥇 **1st Prize** – CIH 2.0, Nagpur  
-🥇 **1st Prize** – MKD Spark, Nandurbar  
-🥇 **1st Prize** – TechLegion, Chhatrapati Sambhajinagar  
-🥈 **2nd Prize** – IDEA Hackathon, Mumbai  
-🥈 **2nd Prize** – DIPEX 2025, Pune  
-🥈 **2nd Prize** – WINGS 2025, Chhatrapati Sambhajinagar  
-🥉 **3rd Prize** – Ideathon 2.0, Mumbai  
-🥉 **2nd Runner-Up** – Hack The Gap, Chhatrapati Sambhajinagar  
-🥉 Consolation Prize – MUJHackX, Manipal University, Jaipur, Rajasthan  
-🥉 Best Innovation and Approach Award – Hackstrom, JEC, Jaipur, Rajasthan
-
-🏁 *Each hackathon was a new challenge — from ideation to execution — pushing limits and turning ideas into reality.* 🚀  
+I build production-grade software systems, from scalable backend services to full stack applications and AI-powered workflows, with a focus on reliability, performance, and real-world use.
 
 ---
 
-## 🔭 Current Focus  
-- 📱 **App Development:** Building cross-platform apps with **Flutter** & **React Native**  
-- 💻 **Full-Stack:** Exploring **Next.js**, **Nest.js**, and scalable web architectures  
-- 🧠 **AI & GenAI:** Experimenting with **LLMs**, **Neural Networks**, and automation tools  
-- ⛓️ **Blockchain:** Learning the foundations of smart contracts, Web3, and decentralized systems  
-- ⚙️ **DSA & CP:** Sharpening problem-solving skills on **LeetCode** & **Codeforces**  
+## 🏆 Achievements
+
+### National-Level Hackathons and Major Recognitions
+
+• **Smart India Hackathon 2025 (SIH)** – Finalist  
+• **Ideathon 2.0, Mumbai** – 3rd Prize  *(Awarded by Vice President of India, C. P. Radhakrishnan)*  
+• **CIH 2.0, Nagpur** – 1st Prize  
+• **IDEA Hackathon, Mumbai** – 2nd Prize  
+• **WINGS 2025, Chhatrapati Sambhajinagar** – 2nd Prize  
+• **DIPEX 2025, Pune** – 2nd Prize  
+
+### Other Hackathons and Recognitions
+
+• TechLegion, Chhatrapati Sambhajinagar – 1st Prize  
+• MKD Spark, Nandurbar – 1st Prize  
+• Hack The Gap, Chhatrapati Sambhajinagar – 2nd Runner-Up  
+• MUJHackX, Manipal University Jaipur – Consolation Prize  
+• Hackstrom, JEC Jaipur – Best Innovation and Approach Award  
+
+**10+ hackathon wins and recognitions overall**, reflecting strong execution, problem-solving, and teamwork.
 
 ---
 
-## 🌱 Currently Learning  
-- **Mobile Dev:** Flutter • React Native • Firebase  
-- **AI/ML:** Python • TensorFlow • PyTorch • NLP  
-- **Blockchain:** Solidity • Smart Contracts • Ethereum Basics • Web3.js  
-- **Web Tech:** Next.js • GraphQL • Microservices  
-- **System Design:** Scalable backend architectures  
+## 🚀 What I Work On
+
+### Full Stack Development
+Building end-to-end web applications using React and modern state management, backed by scalable APIs and databases. I focus on clean architecture, maintainable code, and user-centric workflows.
+
+### Backend Engineering
+Designing and implementing production-ready backend systems using Node.js and Python. My work includes REST APIs, authentication and authorization, database design, real-time systems, and performance-focused debugging.
+
+### GenAI and Applied AI
+Working with Large Language Models, Retrieval Augmented Generation, and NLP to build intelligent applications. I focus on practical AI systems that integrate cleanly into real products.
 
 ---
 
-## 🛠️ Tech Stack  
+## 🛠️ Tech Stack
 
-### 💻 App Development  
-- Flutter  
-- React Native  
+### Languages
+• JavaScript  
+• Python  
 
-### 🌐 Web Development  
-- React  
-- Next.js  
-- Node.js  
-- Express.js  
+### Frontend
+• React.js  
+• Redux Toolkit  
+• Zustand  
+• Tailwind CSS  
 
-### 🧠 AI / ML / Data Science  
-- Python  
-- TensorFlow  
-- Pandas  
-- NumPy  
+### Backend
+• Node.js  
+• Express.js  
+• FastAPI  
+• Flask  
 
-### ⛓️ Blockchain (Exploring)  
-- Solidity  
-- Web3.js  
-- Smart Contracts  
+### Databases and Backend Services
+• MongoDB  
+• Firebase  
 
-### ⚔️ Competitive Programming  
-- C++  
-- LeetCode • Codeforces  
+### AI and ML
+• Large Language Models (Gemini, GPT)  
+• Retrieval Augmented Generation (RAG)  
+• Natural Language Processing  
 
----
-
-## 📊 GitHub Stats  
-
-![Uzair's GitHub stats](https://github-readme-stats.vercel.app/api?username=uzairprog&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=uzairprog&layout=compact&theme=radical)  
+### Tools
+• Git  
+• Postman  
+• Vite  
 
 ---
 
-## 🏆 GitHub Trophies  
-![Trophies](https://github-profile-trophy.vercel.app/?username=uzairprog&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=uzairprog&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=uzairprog&theme=radical&hide_border=true" height="165"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uzairprog&layout=compact&theme=radical&hide_border=true&langs_count=8"/>
+</div>
 
 ---
 
-## ✍️ Random Dev Quote  
-> “The best way to predict the future is to build it — one commit at a time.” ⚡  
+## 🎯 Currently
+
+• Building **MediaFlow**, a production-grade social media backend using Node.js and MongoDB  
+• Exploring system design and scalable backend architectures  
+• Actively building and refining full stack and AI-powered projects  
+• Open to Full Stack, Backend, and Applied AI internship opportunities  
 
 ---
 
-## 🌐 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/uzair-md-4507892ba/)  
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/UzairProg)  
+## 📫 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uzair-md/)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/UzairProg)  
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:programmeruzair@gmail.com)
 
 ---
 
-⭐ *“Keep building. Keep learning. Keep pushing boundaries.”*  
+<div align="center">
+
+**Building software systems that work in production.**  
+⭐ Star a repo if you find it useful.
+
+</div>
