@@ -6,13 +6,14 @@ I build production-grade software systems, from scalable backend services to ful
 
 ---
 
-## 🏆 Achievements
+## 🏆 Achievements (12x Hackathon Winner)
 
 ### National-Level Hackathons and Major Recognitions
 
 • **Smart India Hackathon 2025 (SIH)** – Finalist  
 • **Ideathon 2.0, Mumbai** – 3rd Prize  *(Awarded by Vice President of India, C. P. Radhakrishnan)*  
 • **CIH 2.0, Nagpur** – 1st Prize  
+• **Zentrix (HackTheGap 2.0)** – 1st Prize  
 • **IDEA Hackathon, Mumbai** – 2nd Prize  
 • **WINGS 2025, Chhatrapati Sambhajinagar** – 2nd Prize  
 • **DIPEX 2025, Pune** – 2nd Prize  
@@ -25,7 +26,7 @@ I build production-grade software systems, from scalable backend services to ful
 • MUJHackX, Manipal University Jaipur – Consolation Prize  
 • Hackstrom, JEC Jaipur – Best Innovation and Approach Award  
 
-**10+ hackathon wins and recognitions overall**, reflecting strong execution, problem-solving, and teamwork.
+**12+ hackathon wins and recognitions overall**, reflecting strong execution, problem-solving, and teamwork.
 
 ---
 
